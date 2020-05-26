@@ -27,7 +27,7 @@ The regions of motion are encircled by one or multiple circles depending on the 
 ![Figure-1](https://user-images.githubusercontent.com/40714349/82877239-e37f1280-9f74-11ea-96ff-875878eb8f26.jpg)
 
 #### a) Implementation details <br />
-The working of each step along with functions used in program and its corresponding output with the name of variables are given in Table 3 which are general for all the methods. Whereas <b> Table 4 </b> demonstrates the steps distinctive for each method processing.
+The working of each step along with functions used in program and its corresponding output with the name of variables are given in <b> Table 3 </b> which are general for all the methods. Whereas <b> Table 4 </b> demonstrates the steps distinctive for each method processing.
 
 ### Table 3: Generic steps for breathing detection of baby for all seven methods <br />
 ![Table-3](https://user-images.githubusercontent.com/40714349/82877842-ab2c0400-9f75-11ea-8911-2fb4ef8f2479.JPG)
