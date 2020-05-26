@@ -98,15 +98,9 @@ The system works as follows: It takes video as an input and reads two successive
 ![Figure-8](https://user-images.githubusercontent.com/40714349/82882173-aff3b680-9f7b-11ea-8902-a1d7b057b067.jpg) <br /> <br />
 
 <license>
- Copyright (c) 2012 "copyright notice checker" Authors. All rights reserved.
+ Copyright (c) 2019 "copyright notice checker" Authors. All rights reserved.
 
-
-
-Redistribution and use in source and binary forms, with or without
-
-modification, are permitted provided that the following conditions are
-
-met:
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 * Redistributions of source code must retain the above copyright
 notice, this list of conditions and the following disclaimer. <br />
