@@ -3,7 +3,10 @@
 ### Paper (open access)
 - https://iecscience.org/uploads/jpapers/201911/fmxy061mbNEbTQ8W59kbMsT3y2EbgYlwDobersRf.pdf
 
-There are three sections in this report: <br />
+## Notice
+Prior to the codes usage for industrial purposes or re-distribution, please read the licensing information given at the end of  <b> README file <b>
+
+There are three sections in this repository: <br />
 - I)	Development environment and pre-requisites <br />
 - II)	Source code  <br />
 - III)	Details about implemented methods and working mechanism <br />
