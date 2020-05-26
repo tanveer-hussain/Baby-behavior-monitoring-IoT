@@ -48,7 +48,7 @@ This method comprises of the following steps: <br />
 •	Calculate pixel-wise difference between two successive frames. <br />
 •	Convert the difference image into binary. <br />
 •	Compute binary image to detect motion. <br />
-The working mechanism of method 1 is visualized in <b> Figure 2 <\b> <br />
+The working mechanism of method 1 is visualized in <b> Figure 2 </b> <br />
   
 ### Figure 2: Overall framework of method 1 (frame difference) <br />
 ![Figure-2](https://user-images.githubusercontent.com/40714349/82878539-956b0e80-9f76-11ea-9993-06267476096e.jpg)
