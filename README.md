@@ -100,6 +100,12 @@ The system works as follows: It takes video as an input and reads two successive
 ### Figure 8: Overall framework of method 7 (hybrid method) <br />
 ![Figure-8](https://user-images.githubusercontent.com/40714349/82882173-aff3b680-9f7b-11ea-8902-a1d7b057b067.jpg) <br /> <br />
 
+
+Contact Me
+========
+If you feel any difficulty or errors, please refer to tanveerkhattak37973[at][gmail]
+
+
 ## Outsourcing and Licensing
 <license>
  Copyright (c) 2019 "copyright notice checker" Authors. All rights reserved.
